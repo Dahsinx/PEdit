@@ -1,0 +1,23 @@
+C:\Users\patri\Programming\Projects\PEdit\bad text editor\bin\Debug\bad text editor.exe.config
+C:\Users\patri\Programming\Projects\PEdit\bad text editor\bin\Debug\bad text editor.exe
+C:\Users\patri\Programming\Projects\PEdit\bad text editor\bin\Debug\bad text editor.pdb
+C:\Users\patri\Programming\Projects\PEdit\bad text editor\obj\Debug\PEdit.csproj.AssemblyReference.cache
+C:\Users\patri\Programming\Projects\PEdit\bad text editor\obj\Debug\PEdit.csproj.SuggestedBindingRedirects.cache
+C:\Users\patri\Programming\Projects\PEdit\bad text editor\obj\Debug\bad_text_editor.Form1.resources
+C:\Users\patri\Programming\Projects\PEdit\bad text editor\obj\Debug\bad_text_editor.Properties.Resources.resources
+C:\Users\patri\Programming\Projects\PEdit\bad text editor\obj\Debug\PEdit.csproj.GenerateResource.cache
+C:\Users\patri\Programming\Projects\PEdit\bad text editor\obj\Debug\PEdit.csproj.CoreCompileInputs.cache
+C:\Users\patri\Programming\Projects\PEdit\bad text editor\obj\Debug\bad text editor.exe
+C:\Users\patri\Programming\Projects\PEdit\bad text editor\obj\Debug\bad text editor.pdb
+C:\Users\patri\Programming\Projects\PEdit\PEdit\bin\Debug\PEdit.exe.config
+C:\Users\patri\Programming\Projects\PEdit\PEdit\bin\Debug\PEdit.exe
+C:\Users\patri\Programming\Projects\PEdit\PEdit\bin\Debug\PEdit.pdb
+C:\Users\patri\Programming\Projects\PEdit\PEdit\obj\Debug\PEdit.csproj.AssemblyReference.cache
+C:\Users\patri\Programming\Projects\PEdit\PEdit\obj\Debug\PEdit.csproj.SuggestedBindingRedirects.cache
+C:\Users\patri\Programming\Projects\PEdit\PEdit\obj\Debug\bad_text_editor.Form1.resources
+C:\Users\patri\Programming\Projects\PEdit\PEdit\obj\Debug\PEdit.Properties.Resources.resources
+C:\Users\patri\Programming\Projects\PEdit\PEdit\obj\Debug\PEdit.csproj.GenerateResource.cache
+C:\Users\patri\Programming\Projects\PEdit\PEdit\obj\Debug\PEdit.csproj.CoreCompileInputs.cache
+C:\Users\patri\Programming\Projects\PEdit\PEdit\obj\Debug\PEdit.exe
+C:\Users\patri\Programming\Projects\PEdit\PEdit\obj\Debug\PEdit.pdb
+C:\Users\patri\Programming\Projects\PEdit\PEdit\obj\Debug\PEdit.Form2.resources
